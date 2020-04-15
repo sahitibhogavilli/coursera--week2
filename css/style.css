@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color:white;
+    background-color: #d6d6d6;
 }
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
 
 section {
     border: 1px solid black;
-    background-color:gray;
+    background-color: #b5c4d2;
     margin: 10px;
 }
 
@@ -33,19 +33,20 @@ section>h2 {
 }
 
 section.lebesgue>h2 {
-    background-color: pink;
+    background-color: #76b8db;
 }
 
 section.fubini>h2 {
-    background-color:red;
+    background-color: #4f7acd;
 }
 
 section.luzin>h2 {
-    background-color: yellow;
+    color: #e2e2e2;
+    background-color: #10328a;
 }
 
 section>p {
-    padding: 40px;
+    padding: 40px 15px 15px 15px;
 }
 
 .row {
